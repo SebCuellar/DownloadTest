@@ -1,1 +1,1 @@
-This file means the dowload test was successful.
+This file means the download test was successful.
